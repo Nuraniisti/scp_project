@@ -1,0 +1,992 @@
+no_pelanggan,alamat,latlng,lat,lng
+PS000001,"Perumahan Griya Gaharu MAS Blok A 15 No.2 RT 004/008 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000002,"Perumahan Griya Gaharu Blok A15 No. 1 Babakan, Kec. Cibeureum Kota Sukabumi",-6.921387500000001 106.942301,"-6,92139E+15",106942301
+PS000003,"Perumahan Griya Gaharu MAS, Cendana 9 Blok B4-8 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165",-6.9448972 106.9535445,-69448972,1069535445
+PS000004,Perumahan Griya Gaharu Blok B4 No. 3 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9448972 106.9535445,-69448972,1069535445
+PS000005,Perumahan Griya Gaharu Blok B5 No. 9 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9448972 106.9535445,-69448972,1069535445
+PS000006,Perumahan Griya Gaharu MAS Blok B No. 5 Jl. Sarasa Kec. Cibeureum Kota Sukabumi,-6.945199 106.953291,-6945199,106953291
+PS000007,Perumahan Griya Gaharu Blok B3 No. 10 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165 B-3,-6.945199 106.953291,-6945199,106953291
+PS000008,Perumahan Griya Gaharu Blok A7 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.921387500000001 106.942301,"-6,92139E+15",106942301
+PS000009,Perumahan Griya Gaharu Blok B No. 3 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.945199 106.953291,-6945199,106953291
+PS000010,Perumahan Griya Gaharu Blok B5 No. 6 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9448972 106.9535445,-69448972,1069535445
+PS000011,Perumahan Griya Gaharu Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9448972 106.9535445,-69448972,1069535445
+PS000012,Perumahan Griya Gaharu Blok B1 No. 6 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9208472 106.9673362,-69208472,1069673362
+PS000013,Perumahan Griya Gaharu Blok C No. 7 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9448972 106.9535445,-69448972,1069535445
+PS000014,Perumahan Griya Gaharu Blok C No. 6 Jl. Sarasa Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.921387500000001 106.942301,"-6,92139E+15",106942301
+PS000015,Sindang Resmi RT 003 RW 008 Kel. Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43165,-6.9358606 106.9550449,-69358606,1069550449
+PS000016,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000017,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000018,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000019,Rancakadu RT 003 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000020,Rancakadu RT 001 RW 006 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000021,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9491041 106.9545745,-69491041,1069545745
+PS000022,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9491041 106.9545745,-69491041,1069545745
+PS000023,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000024,Rancakadu RT 005 RW 006 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9363531 106.9561571,-69363531,1069561571
+PS000025,Kp. Cikaret Balai Desa RT 023 RW 008 Cikaret Kec. Kebonpedes Kab. Sukabumi,-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000026,Kp. Cikaret Balai Desa RT 023 RW 008 Cikaret Kec. Kebonpedes Kab. Sukabumi,-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000027,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000028,Jl. Sarasa RT 01 RW 008 Cibeureum Kota Sukabumi,-6.9483352 106.9504037,-69483352,1069504037
+PS000029,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9491041 106.9545745,-69491041,1069545745
+PS000030,Perum Sindangpalay Jl. Dukuh Blok D No. 275 RT 001 RW 005 Sindangpalay Kec. Cibeureum Kota Sukabumi,-6.9585633 106.9424394,-69585633,1069424394
+PS000031,Kp. Cikaret RT 020 RW 007 Kec. Kebonpedes Kab. Sukabumi,-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000032,"Perumahan Griya Gaharu Blok C9 No. 8 Babakan, Kec. Cibeureum Kota Sukabumi",-6.9448972 106.9535445,-69448972,1069535445
+PS000033,Kp. Cikaret RT 005 RW 006 Kec. Kebonpedes Kab. Sukabumi,-6.9479215 106.9563594,-69479215,1069563594
+PS000034,Kp. Cikaret RT 017 RW 006 Kec. Kebonpedes Kab. Sukabumi,-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000035,Jl. Sarasa Loa Sari RT 001 RW 001 Cibeureum Kota Sukabumi,-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000036,Kp. Cikaret RT 016 RW 006 Kec. Kebonpedes Kab. Sukabumi,-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000037,Kp. Cikaret RT 021 RW 007 Kec. Kebonpedes Kab. Sukabumi,-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000038,Rancakadu RT 003 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000039,Rancakadu RT 002 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000040,Rancakadu RT 001 RW 008 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000041,Rancakadu RT 003 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000042,Rancakadu RT 003 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000043,Rancakadu RT 003 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9493925 106.9539538,-69493925,1069539538
+PS000044,Jl. Sarasa Loa Sari RT 004 RW 008 Cibeureum Kota Sukabumi,-6.9439562 106.9516936,-69439562,1069516936
+PS000045,Rancakadu RT 004 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9491041 106.9545745,-69491041,1069545745
+PS000046,Rancakadu RT 005 RW 004 Kel. Sindangpalay Cibeureum Kota Sukabumi,-6.9491041 106.9545745,-69491041,1069545745
+PS000047,Perum Griya Gaharu Kec. Cibeureum Kota Sukabumi,-6.946185799999999 106.9415963,"-6,94619E+15",1069415963
+PS000048,Kp. Bungbulang RT 002 RW 005 Cibeureum Kota Sukabumi,-6.9358606 106.9550449,-69358606,1069550449
+PS000049,"Jl. Sarasa, Babakan, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43142, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000050,"Kp. Cikaret Jl Pembangunan Desa, Cikaret, Kec. Kebonpedes, Kab. Sukabumi, Jawa Barat 43194, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000051,"Unnamed Road, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000052,"Jl. Cikaret, Babakan, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000053,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000054,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000055,"3X55+XXP, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9400375 106.9599531,-69400375,1069599531
+PS000056,"Jl. Cikaret, Cikaret, Kebonpedes, Sukabumi Regency, Jawa Barat 43142, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000057,"3X55+CWJ, Babakan, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43142, Indonesia",-6.941412499999999 106.9597656,"-6,94141E+15",1069597656
+PS000058,"2XX3+J97, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.950962499999999 106.9534219,"-6,95096E+15",1069534219
+PS000059,"3X43+2VJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9449125 106.9546406,-69449125,1069546406
+PS000060,"3X93+28F, Cibeureum Hilir, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9324375 106.9532969,-69324375,1069532969
+PS000061,"3X55+CWJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.941412499999999 106.9597656,"-6,94141E+15",1069597656
+PS000062,"Jalan Cipelang Leutik 1 No.7-8, RT:05/ RW:01 Kec. Cikole Kel, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114, Indonesia",-6.917193399999999 106.9279286,"-6,91719E+15",1069279286
+PS000063,"Jl. Sarasa No.10, Babakan, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43165, Indonesia",-6.946210499999999 106.9513114,"-6,94621E+15",1069513114
+PS000065,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Sukabumi Regency, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000067,"Jl. Sarasa No.73, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943961799999999 106.9519015,"-6,94396E+15",1069519015
+PS000068,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000069,"3X43+396, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.944837499999999 106.9533906,"-6,94484E+15",1069533906
+PS000070,"Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000071,"Perum girya gaharu mas blok D2 no 16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000072,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000073,"Unnamed Road, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia ",-6.9401128 106.9447146,-69401128,1069447146
+PS000074,"Jl. Pembangunan No.9, Babakan, Kec. Sukabumi, Kota Sukabumi, Jawa Barat 35131, Indonesia",-6.9378188 106.9548745,-69378188,1069548745
+PS000075,"3W5X+347, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423375 106.9477969,-69423375,1069477969
+PS000076,"Jl. Sarasa No.10, RT.01, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.946210499999999 106.9513114,"-6,94621E+15",1069513114
+PS000077,"3X23+9X2, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491125 106.9548906,-69491125,1069548906
+PS000078,"Perum girya gaharu mas blok C10 No2, In, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000079,"3WJC+V7V, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.917762499999999 106.9206719,"-6,91776E+15",1069206719
+PS000081,"Jl. Sarasa No.73, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943961799999999 106.9519015,"-6,94396E+15",1069519015
+PS000082,"Perum girya gaharu mas blok D2 no 16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000083,"3X43+2VJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9449125 106.9546406,-69449125,1069546406
+PS000084,"Unnamed Road, Babakan, Cibeureum, Sukabumi City, West Java 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000085,"3X24+VV6, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.947837499999999 106.9571406,"-6,94784E+15",1069571406
+PS000086,"Jl. Bhayangkara Gg. Murai No.1 RT.02/08 Ke, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9127472 106.9205463,-69127472,1069205463
+PS000087,"Unnamed Road, Babakan, Cibeureum, Sukabumi City, West Java 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000088,"3X32+XQQ, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9450375 106.9519844,-69450375,1069519844
+PS000089,"3X55+XXP, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9400375 106.9599531,-69400375,1069599531
+PS000090,"3X32+JXQ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.945912499999999 106.9524844,"-6,94591E+15",1069524844
+PS000091,"UUJl. Sarasa No.73, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943961799999999 106.9519015,"-6,94396E+15",1069519015
+PS000092,"Jl. Aminta Azmali No.10, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9176693 106.9255366,-69176693,1069255366
+PS000093,"Jl. Rancakadu No.2, Cibeureum Hilir, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9476571 106.9564054,-69476571,1069564054
+PS000094,"3X23+9X2, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491125 106.9548906,-69491125,1069548906
+PS000095,"Jl. Aminta Amalia No.18, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9137436 106.9212761,-69137436,1069212761
+PS000096,"3X43+5MV, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9445125 106.9541719,-69445125,1069541719
+PS000097,"3X24+VV6, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.947837499999999 106.9571406,"-6,94784E+15",1069571406
+PS000098,"Jl. Sarasa No.9, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9458021 106.9526708,-69458021,1069526708
+PS000099,"3X32+XQQ, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9450375 106.9519844,-69450375,1069519844
+PS000100,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia Loasari",-6.9445625 106.9496094,-69445625,1069496094
+PS000101,"Unnamed Road, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000102,"3X43+396, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.944837499999999 106.9533906,"-6,94484E+15",1069533906
+PS000103,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000104,"3X22+6J9, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9494625 106.9516094,-69494625,1069516094
+PS000106,"3X22+48W, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9496375 106.9508281,-69496375,1069508281
+PS000107,"2XX3+XR6, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9500875 106.9545156,-69500875,1069545156
+PS000108,"2XX3+XR6, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9500875 106.9545156,-69500875,1069545156
+PS000109,"3X42+XJ2, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9426125 106.9515156,-69426125,1069515156
+PS000110,"3X24+F96, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9488375 106.9558906,-69488375,1069558906
+PS000111,"Jl. Sarasa No.10, RT.01, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.946210499999999 106.9513114,"-6,94621E+15",1069513114
+PS000112,"3X24+F96, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9488375 106.9558906,-69488375,1069558906
+PS000113,"2XV4+C4F, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9564375 106.9552969,-69564375,1069552969
+PS000114,"Jl. Bhayangkara Gg. Murai No.1 RT.02/08 Ke, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9127472 106.9205463,-69127472,1069205463
+PS000115,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000116,"3X43+2VJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9449125 106.9546406,-69449125,1069546406
+PS000118,"Jl. Sarasa No.73, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943961799999999 106.9519015,"-6,94396E+15",1069519015
+PS000119,"3X75+GR2, Jl. Cikaret, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000120,"Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000121,"3X52+QWM, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9405375 106.9522969,-69405375,1069522969
+PS000122,"3X22+P7J, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9481625 106.9506406,-69481625,1069506406
+PS000123,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000124,"3X24+J9C, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000125,"3X42+CM5, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000126,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000127,"3X24+M86, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9483375 106.9557656,-69483375,1069557656
+PS000128,"3X24+92G, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000129,"3X23+G48, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9487125 106.9528281,-69487125,1069528281
+PS000130,"3X43+49P, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9446625 106.9534531,-69446625,1069534531
+PS000131,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9445625 106.9496094,-69445625,1069496094
+PS000132,"Jl. Sudajaya No.6, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.952391200000001 106.9323494,"-6,95239E+15",1069323494
+PS000133,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000134,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000135,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000136,"Jl. Aminta Azmali No.37, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9129504 106.9219638,-69129504,1069219638
+PS000137,"3X53+M37, Babakan, Cibeureum, Sukabumi City, West Java 43142, Indonesia",-6.9408375 106.9526719,-69408375,1069526719
+PS000138,"3X32+HRH, Babakan, Cibeureum, Sukabumi City, West Java 43142, Indonesia",-6.9460625 106.9521094,-69460625,1069521094
+PS000139,"3X24+92G, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000140,"3X24+QWF, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000141,"2XX2+4XM, Blk. Q - R, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.952178 106.9525185,-6952178,1069525185
+PS000142,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000143,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000144,"3WMG+CVC, Selabatu, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43114, Indonesia",-6.916437500000001 106.9271406,"-6,91644E+15",1069271406
+PS000145,"3X52+FJ9, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000146,"3X24+VV6, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.947837499999999 106.9571406,"-6,94784E+15",1069571406
+PS000147,"3X55+4W5, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9414019 106.9598094,-69414019,1069598094
+PS000148,"Jl. Cipelang Leutik No.8, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114, Indonesia",-6.9173152 106.9278861,-69173152,1069278861
+PS000149,"3X43+2VJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9449125 106.9546406,-69449125,1069546406
+PS000150,"Perum girya gaharu mas blok C 9 no 6, Babakan, Cibeureum, Sukabumi City, West Java 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000151,"2WXX+XHR, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9500125 106.9488906,-69500125,1069488906
+PS000152,"3X43+48J, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9446625 106.9532656,-69446625,1069532656
+PS000153,"3X22+C3J, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000154,"3WPF+G7C, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9136875 106.9231406,-69136875,1069231406
+PS000155,"3X24+C39, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000156,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000157,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000158,"3X22+48W, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9496375 106.9508281,-69496375,1069508281
+PS000159,"3X43+37X, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9447625 106.9532344,-69447625,1069532344
+PS000160,"3X24+F96, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9488375 106.9558906,-69488375,1069558906
+PS000161,"3X65+QRV, RT.05/RW.06, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.938012499999999 106.9595469,"-6,93801E+15",1069595469
+PS000162,"Jl. Sarasa Blk. Loasari No.1, RT.01, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.944906199999999 106.9510557,"-6,94491E+15",1069510557
+PS000163,"3X45+PQ3, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9432375 106.9594219,-69432375,1069594219
+PS000164,"3X22+C3J, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000165,"3X24+92G, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000166,"Jl. Cikaret, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000167,"3WMG+CVC, Selabatu, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43114, Indonesia",-6.916437500000001 106.9271406,"-6,91644E+15",1069271406
+PS000168,"Jl. Sarasa No.10, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.946210499999999 106.9513114,"-6,94621E+15",1069513114
+PS000169,"2XV3+5QX, Jl. Cikawung, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9569736 106.9565773,-69569736,1069565773
+PS000170,"Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000171,"3X23+9X2, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491125 106.9548906,-69491125,1069548906
+PS000172,"3X55+4W5, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9414019 106.9598094,-69414019,1069598094
+PS000176,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000177,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9445625 106.9496094,-69445625,1069496094
+PS000178,"Perumahan Griya Gaharu Mas Blok D2 No. 6, Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000179,"3X42+MPH, Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000180,"2XX3+C3J, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9514125 106.9526406,-69514125,1069526406
+PS000181,"3X45+PQ3, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9432375 106.9594219,-69432375,1069594219
+PS000182,"3X43+2CV, Jl. Sarasa, Cibeureum Hilir, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000183,"3W3W+R4G, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.945437500000001 106.9453281,"-6,94544E+15",1069453281
+PS000184,"3W4W+H6R, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9435125 106.9455156,-69435125,1069455156
+PS000185,"2WXW+M29, Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000186,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000187,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000188,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000189,"Jl. Limusnunggal No.275, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9509565 106.9453327,-69509565,1069453327
+PS000190,"2WXW+QV6, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000191,"2WXW+QV6, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000192,"Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000193,"2WXW+94P, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9515375 106.9453281,-69515375,1069453281
+PS000194,"2WXW+94P, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9515375 106.9453281,-69515375,1069453281
+PS000195,"3W4W+H6R, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9435125 106.9455156,-69435125,1069455156
+PS000196,"3W4W+P53, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000197,"Jl. Parahita Nugraha No.46, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9462242 106.9448682,-69462242,1069448682
+PS000198,"2WXW+XRJ, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000199,"3X43+2CV, Jl. Sarasa, Cibeureum Hilir, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000200,"2WXW+WV7, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9502125 106.9471719,-69502125,1069471719
+PS000201,"Jl. Limusnunggal No.58, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.935269799999999 106.9395428,"-6,93527E+15",1069395428
+PS000202,"3W4V+3CR, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000203,"3X45+3JQ, Jl Cikaret kp Ceger RT.024/RW.008 Kel. Cikaret Kec. Kebonpedes Kota Sukabumi, Jawa Barat 43194, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000204,"3W3R+68P, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9469125 106.9408281,-69469125,1069408281
+PS000205,"3W3V+224, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.947487499999999 106.9425781,"-6,94749E+15",1069425781
+PS000206,"Babakan, RT. 11/5, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000207,"3W2V+6V9, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000208,"3W2V+P8F, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000209,"3WMG+G69, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.916212499999999 106.9256094,"-6,91621E+15",1069256094
+PS000210,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000211,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000212,"3W2V+V3F, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9478125 106.9426719,-69478125,1069426719
+PS000213,"3W3R+CCX, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000214,"3W3R+P7W, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000215,"Jl. Sarasa No.1, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9483352 106.9504037,-69483352,1069504037
+PS000216,"Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000217,"3W2V+F6Q, Limusnunggal, Cibeureum, Sukabumi Regency, West Java 43165, Indonesia",-6.9487875 106.9431094,-69487875,1069431094
+PS000218,"3WMG+CVC, Selabatu, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43114, Indonesia",-6.916437500000001 106.9271406,"-6,91644E+15",1069271406
+PS000220,"Jl. Sarasa No.1, Kp. Loasari, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9483352 106.9504037,-69483352,1069504037
+PS000221,"Jl. Sarasa No.1, Kp. Loasari, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9483352 106.9504037,-69483352,1069504037
+PS000222,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000223,"2XX2+GG6, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9512125 106.9512656,-69512125,1069512656
+PS000224,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000225,"Jl. Sarasa No.47, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9424854 106.9522612,-69424854,1069522612
+PS000226,"3X43+2VJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9449125 106.9546406,-69449125,1069546406
+PS000227,"3X24+R9G, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000228,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000229,"2WXV+QV3, Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000230,"Jl. Sarasa No.1234, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9414905 106.9522986,-69414905,1069522986
+PS000231,"jalan cikaret kp.Sukamanah Rt01/Rw07, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000232,"Jl. Garuda, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9507433 106.9486712,-69507433,1069486712
+PS000233,"3WPC+FCJ, Jl. Aminta Amalia, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9138212 106.9210095,-69138212,1069210095
+PS000234,"3WPC+QH4, Jl. Aminta Azmali Trip Kp. Belakang, RT.8/RW.2, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.914531 106.9233779,-6914531,1069233779
+PS000235,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000236,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000237,"3W2W+4MJ, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9496625 106.9466406,-69496625,1069466406
+PS000238,"3X63+QMQ, Jl. Pembangunan, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000239,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9445625 106.9496094,-69445625,1069496094
+PS000240,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000241,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000242,"Jl. Sarasa No.47, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9424854 106.9522612,-69424854,1069522612
+PS000243,"Jl. Garuda No.35, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9526772 106.9477165,-69526772,1069477165
+PS000244,"Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000245,"3X24+M86, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9483375 106.9557656,-69483375,1069557656
+PS000246,"Jl. Pembangunan No.84, RT.02/RW.06, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9348116 106.9574221,-69348116,1069574221
+PS000247,"2WXV+QV3, Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000248,"Jl. Cipelang Leutik Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114, Indonesia",-6.9168373 106.9293534,-69168373,1069293534
+PS000249,"3X23+9X2, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491125 106.9548906,-69491125,1069548906
+PS000250,"3X62+MFW, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9382625 106.9512031,-69382625,1069512031
+PS000251,"Jl. Sarasa No.75, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000252,"Jl. Sarasa No.75, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000253,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000254,"3W3R+7P4, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9468625 106.9418281,-69468625,1069418281
+PS000255,"Jl. Aminta Azmali, kp.kuta pasir, 3WMF+V3P, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.915242699999999 106.9228067,"-6,91524E+15",1069228067
+PS000256,"3X56+PGC, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9406875 106.9612656,-69406875,1069612656
+PS000257,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9445625 106.9496094,-69445625,1069496094
+PS000258,"Jl.sarasa cibungur rt 01/03 kel, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494823 106.949672,-69494823,106949672
+PS000259,"3WPC+VCJ, Gg. Murai, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9127472 106.9205463,-69127472,1069205463
+PS000260,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000261,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000262,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000263,"3W2V+R4V, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000264,"Kp. Sukamanah rt/rw 01/07, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000265,"3X43+6J4, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.944487499999999 106.9540781,"-6,94449E+15",1069540781
+PS000266,"3X63+8FV, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.939137499999999 106.9536719,"-6,93914E+15",1069536719
+PS000267,"2WXW+QV6, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000268,"3X25+P66, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.948212499999999 106.9580156,"-6,94821E+15",1069580156
+PS000269,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000270,"Kp.Cikaret baldes , rt 023 rw 008 , desa Cikaret , Kecamatan Kebonpedes, Kab. Sukabumi Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000271,"3X23+7JH, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000272,"2WXW+F5R, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.951262499999999 106.9453906,"-6,95126E+15",1069453906
+PS000273,"Jl. Cipelang Leutik No.8, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114, Indonesia",-6.9173152 106.9278861,-69173152,1069278861
+PS000274,"Jl. Cipelang Leutik No.8, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114, Indonesia",-6.9173152 106.9278861,-69173152,1069278861
+PS000275,"3X75+XRM, Jl. Cikaret, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000276,"3X22+7W9, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9493375 106.9523594,-69493375,1069523594
+PS000277,"Jl. Sarasa No.9, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9458021 106.9526708,-69458021,1069526708
+PS000278,"Kp. Sukamanah rt/rw 01/07, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000279,"Kp. Sukamanah rt/rw 01/07, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000280,"2WXW+J3M, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.950912499999999 106.9451719,"-6,95091E+15",1069451719
+PS000281,"Jl. Ciandam No.16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9362379 106.9525195,-69362379,1069525195
+PS000282,"Jl. Ciandam No.16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9362379 106.9525195,-69362379,1069525195
+PS000283,"Kp.Rancakadu , Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000284,"3X42+XJ2, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9426125 106.9515156,-69426125,1069515156
+PS000286,"3W3V+G87, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9462125 106.9432969,-69462125,1069432969
+PS000287,"3W2V+HG8, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000288,"Jl. Sarasa No.1, Kp. Loasari, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9483352 106.9504037,-69483352,1069504037
+PS000289,"3X53+M37, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9408375 106.9526719,-69408375,1069526719
+PS000290,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000291,"3X63+8FV, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.939137499999999 106.9536719,"-6,93914E+15",1069536719
+PS000292,"3X24+QWF, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000293,"3WJC+V54, Gg. Rawasalak, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9153829 106.9200958,-69153829,1069200958
+PS000294,"3W3V+224, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.947487499999999 106.9425781,"-6,94749E+15",1069425781
+PS000295,"3X24+R9G, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000296,"3W2V+Q23, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9481125 106.9425469,-69481125,1069425469
+PS000297,"Kp. Sukamanah rt/rw 01/07, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000298,"3X24+QWF, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000299,"2XX7+968, Sasagaran, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9515875 106.9630781,-69515875,1069630781
+PS000300,"3X22+578, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9495875 106.9507031,-69495875,1069507031
+PS000301,"3X42+4Q5, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000302,"3X42+4QH, Jl. Sarasa, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000303,"3W3R+7GC, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000304,"3X22+7M3, Jl. Sindang Resmi, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.949362499999999 106.9516719,"-6,94936E+15",1069516719
+PS000305,"3X32+HH3, Jl. Sarasa, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000306,"3X66+Q4V, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000307,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000308,"Perum girya gaharu mas blok D2 no 16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000309,"3WMF+H6X, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9160125 106.9231094,-69160125,1069231094
+PS000310,"3X55+XWH, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000311,"3X33+W96, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.945212499999999 106.9533906,"-6,94521E+15",1069533906
+PS000312,"Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000313,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000314,"3WMG+MXH, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114, Indonesia",-6.915812499999999 106.9274844,"-6,91581E+15",1069274844
+PS000315,"3X42+7RV, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000316,"3X63+PFG, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9381875 106.9537031,-69381875,1069537031
+PS000317,"3X24+M86, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9483375 106.9557656,-69483375,1069557656
+PS000318,"3X75+3W8, Jl. Cikaret, Babakan, Kec. Kebonpedes, Kab. Sukabumi, Jawa Barat 43142, Indonesia",-6.9414019 106.9598094,-69414019,1069598094
+PS000319,"3X43+5MV, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9445125 106.9541719,-69445125,1069541719
+PS000320,"Perumahan griya gaharu mas blok C8 No 4 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000321,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000322,"3WJF+3X5, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111, Indonesia",-6.9198625 106.9249844,-69198625,1069249844
+PS000323,"3X66+Q4V, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000324,"2WXV+XXJ, Jl. Limusnunggal, Nanggeleng, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000325,"Jl. Pembangunan No.84, RT.02/RW.06, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9348116 106.9574221,-69348116,1069574221
+PS000326,"3X23+9F6, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.949087500000001 106.9536406,"-6,94909E+15",1069536406
+PS000327,"Jl. Sarasa No.1, Kp. Loasari, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9483352 106.9504037,-69483352,1069504037
+PS000328,"3X73+97V, Jl. Lkr. Sel., Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9355338 106.9540232,-69355338,1069540232
+PS000329,"Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9163825 106.9225798,-69163825,1069225798
+PS000330,"2WRW+JQ2, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.958487499999999 106.9468906,"-6,95849E+15",1069468906
+PS000331,"3W3R+4HP, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9471625 106.9414531,-69471625,1069414531
+PS000332,"Jl. Garuda No.46, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.958965800000001 106.9452449,"-6,95897E+15",1069452449
+PS000333,"3X42+858, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9442125 106.9504531,-69442125,1069504531
+PS000334,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000335,"2WQR+7R5, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9618625 106.9421094,-69618625,1069421094
+PS000336,"Jl. Safir 2 perum No.140, kencana, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9625111 106.9429883,-69625111,1069429883
+PS000337,"3X23+G48, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9487125 106.9528281,-69487125,1069528281
+PS000338,"3X63+MCF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.938312499999999 106.9535469,"-6,93831E+15",1069535469
+PS000339,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000340,"2WXV+QV3, Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000341,"Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000342,"Gg. Kaum IV No.88, RT.1/RW.Rawa 2, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111, Indonesia",-6.9196439 106.924336,-69196439,106924336
+PS000343,"Jl. Sarasa No.1234, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9414905 106.9522986,-69414905,1069522986
+PS000344,"Jl. Garuda, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9507433 106.9486712,-69507433,1069486712
+PS000345,"3X25+M32, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000346,"Perumahan Griya Gaharu Mas blok D5-No.3 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000347,"3X43+49P, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9446625 106.9534531,-69446625,1069534531
+PS000348,"Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000349,"Jl. Nilam Raya, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9611428 106.9465821,-69611428,1069465821
+PS000350,"Perum Griya Gaharu blok D2, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9207568 106.9665205,-69207568,1069665205
+PS000351,"Rancakadu RT/RW.05/04, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000352,"Jl. Kav. Garuda II No.3, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.960271499999999 106.9436429,"-6,96027E+15",1069436429
+PS000353,"Jl. Cikaret, Babakan, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000354,"perum baros jl.safir 18 rt/rw : 004/011, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9630152 106.9434605,-69630152,1069434605
+PS000355,"perum baros jl.safir 18 rt/rw : 004/011, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9630152 106.9434605,-69630152,1069434605
+PS000356,"Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000357,"Jl. Rancakadu, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000358,"Jl. Rw. Belut, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000359,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000360,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000361,"Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000362,"Jl. Kav. Garuda II Gg. Murai No.8, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9603641 106.9447761,-69603641,1069447761
+PS000363,"Perumahan Griya Gaharu Mas Kel. Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000364,"3X74+RJJ, Jl. Pembangunan, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000365,"Jl. Kav. Garuda II Gg. Murai No.8, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9603641 106.9447761,-69603641,1069447761
+PS000366,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9445625 106.9496094,-69445625,1069496094
+PS000367,"Jl. Sarasa No.45, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.941456800000001 106.9524212,"-6,94146E+15",1069524212
+PS000368,,-6.9401128 106.9447146,-69401128,1069447146
+PS000369,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.916212499999999 106.9263281,"-6,91621E+15",1069263281
+PS000370,"3WMG+GG8, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000371,"3X73+34P, Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000372,"Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9582875 106.9476406,-69582875,1069476406
+PS000373,"2WRX+M3J, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000374,"Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9138701 106.9222025,-69138701,1069222025
+PS000375,"Jl. Aminta Azmali No.32, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121, Indonesia",-6.9450375 106.9519844,-69450375,1069519844
+PS000376,"3X32+XQQ, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000377,"Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.885832799999999 106.9322836,"-6,88583E+15",1069322836
+PS000378,"Padangenyang, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000379,"Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000380,"Jl.sarasa, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000381,"Perum Griya Gaharu Mas Blok B5 No.10, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000382,"Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9598907 106.9475508,-69598907,1069475508
+PS000383,"Jl. Akik 4 No.48, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000384,"Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9588625 106.9484844,-69588625,1069484844
+PS000385,"2WRX+F95, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000386,"Loa Sari, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000387,"Caringin RT/RW 003/010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000388,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.958189699999999 106.9469224,"-6,95819E+15",1069469224
+PS000389,"Jl. Garuda Jl. Caringin No.72, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000390,"3X24+RJM, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000391,"Jl. Garuda Caringin, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000392,"Kp. Rawa Belut, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000393,"3X55+XWH, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000394,"3X65+2XW, Jl. Cikaret, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000395,"3X65+2XW, Jl. Cikaret, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000396,"Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000397,"Rancakadu Rt 02 rw 04 , Sindangpalay , Cibereum , Sukabumi",-6.9491041 106.9545745,-69491041,1069545745
+PS000398,"Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000399,"3W4R+F3C, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432375 106.9405156,-69432375,1069405156
+PS000400,"3W4R+P62, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432375 106.9405156,-69432375,1069405156
+PS000401,"3W4R+P62, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000402,"Jl. Garuda Caringin, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9621889 106.941963,-69621889,106941963
+PS000403,"Jl. Safir 6, Perum Baros KencanaSukabumi,, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000404,"3W4R+F3C, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432375 106.9405156,-69432375,1069405156
+PS000405,"3W4R+P62, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.958537499999999 106.9471719,"-6,95854E+15",1069471719
+PS000406,"2WRW+HVM, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000407,"3X42+MPH, Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9404625 106.9601719,-69404625,1069601719
+PS000408,"3X56+R37, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000409,"Jl. Sarasa No.75, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9491125 106.9524844,-69491125,1069524844
+PS000410,"3X22+9X5, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000411,"Perumahan Griya Gaharu Mas Blok D6 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000412,"Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432375 106.9405156,-69432375,1069405156
+PS000413,"3W4R+P62, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000414,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000415,"Jl.Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000416,"3W2V+P8F, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.962940700000001 106.9435779,"-6,96294E+15",1069435779
+PS000417,"Jl. safir 9 no 167, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000418,"Perum girya gaharu mas blok D4 No 4, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9435713 106.9411999,-69435713,1069411999
+PS000419,"3W4R+HF4, Jl. Pesona, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9476571 106.9564054,-69476571,1069564054
+PS000420,"Jl. Rancakadu No.2, Cibeureum Hilir, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9611428 106.9465821,-69611428,1069465821
+PS000421,"2WPR+P3G, Jl. Nilam Raya, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9600161 106.9482552,-69600161,1069482552
+PS000422,"2WQX+X8F, Jl. Akik 7, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9435713 106.9411999,-69435713,1069411999
+PS000423,"3W4R+HF4, Jl. Pesona, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.958537499999999 106.9471719,"-6,95854E+15",1069471719
+PS000424,"2WRW+HVM, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.95942 106.9437785,-695942,1069437785
+PS000425,"Jl. Garuda no. 31 Rt. 02/03 Kel, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.962128099999999 106.9432389,"-6,96213E+15",1069432389
+PS000426,"Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9582875 106.9476406,-69582875,1069476406
+PS000427,"2WRX+M3J, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.941456800000001 106.9524212,"-6,94146E+15",1069524212
+PS000428,"Jl. Sarasa No.45, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9451747 106.9403527,-69451747,1069403527
+PS000429,"Jl. Limusnunggal No.21, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9634291 106.9492848,-69634291,1069492848
+PS000430,"Nangela, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.947437499999999 106.9546719,"-6,94744E+15",1069546719
+PS000431,"3X33+2VF, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9620902 106.9437231,-69620902,1069437231
+PS000432,"Jl. Safir No.104, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9432375 106.9405156,-69432375,1069405156
+PS000433,"3W4R+P62, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000434,"Jl Cikaret kp Ceger, RT.001/RW.001, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000435,"Jl. Rw. Belut, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.958537499999999 106.9471719,"-6,95854E+15",1069471719
+PS000436,"2WRW+HVM, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9463214 106.9414278,-69463214,1069414278
+PS000437,"Jl. Lkr. Sel. No.55, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43164, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000438,"Jl. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43164, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000439,"Jl. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43164, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000440,"3W3R+HXP, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000441,"Kp. Cibungur Kelurahan Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43163",-6.9478692 106.9416652,-69478692,1069416652
+PS000442,"3W2R+VH5, Jl. Rw. Belut, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9464125 106.9405156,-69464125,1069405156
+PS000443,"3W3R+C6J, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.952812499999999 106.9477031,"-6,95281E+15",1069477031
+PS000444,"2WWX+V3G, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.954815099999999 106.9567095,"-6,95482E+15",1069567095
+PS000445,"Kp. Sasagaran Kec, Kebonpedes Kab. Sukabumi Jawa Barat",-6.9577025 106.9447153,-69577025,1069447153
+PS000446,"2WRV+WVF, Kp Caringin, RT.02/RW.10, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000447,"Jl. Sarasa Loasari, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9493375 106.9523594,-69493375,1069523594
+PS000448,"3X22+7W9, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9630176 106.9435214,-69630176,1069435214
+PS000449,"Jl. Safir No.21, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9473375 106.9406719,-69473375,1069406719
+PS000450,"3W3R+377, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000451,"3X55+MWH, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.958727199999999 106.9459713,"-6,95873E+15",1069459713
+PS000452,"Jl. Garuda No.104, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9386125 106.9536406,-69386125,1069536406
+PS000453,"3X63+HF2, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9494823 106.949672,-69494823,106949672
+PS000454,"Jl.sarasa cibungur rt 01/03 kel, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9615125 106.9412969,-69615125,1069412969
+PS000455,"2WQR+9GV, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9509565 106.9453327,-69509565,1069453327
+PS000456,"Jl. Limusnunggal No.275, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000457,"Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000458,"Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9585737 106.9460314,-69585737,1069460314
+PS000459,"2WXW+4RV, Jl. Garuda, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.920625299999999 106.9433547,"-6,92063E+15",1069433547
+PS000460,"Perum Griya Gaharu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000461,"Rancakadu, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9468125 106.9414531,-69468125,1069414531
+PS000462,"3W3R+7HG, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9443125 106.9511094,-69443125,1069511094
+PS000463,"3X42+7CH, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.879179 106.9474842,-6879179,1069474842
+PS000464,"kp.ciseupan, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000465,"2WXV+XR7, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000466,"3W3R+9GX, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000467,"2WRW+JFG, Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.879179 106.9474842,-6879179,1069474842
+PS000468,"kp.ciseupan, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9438875 106.9414531,-69438875,1069414531
+PS000469,"3W4R+CHW, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.947087499999999 106.9414531,"-6,94709E+15",1069414531
+PS000470,"3W3R+5H8, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9445625 106.9496094,-69445625,1069496094
+PS000471,"3W4X+5RH, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9583303 106.9484027,-69583303,1069484027
+PS000472,"Jl. Garuda No.17, RT.002/RW.010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9631364 106.9418551,-69631364,1069418551
+PS000473,"Jl. Zamrud, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9427964 106.9422013,-69427964,1069422013
+PS000474,"Perum Pesona Limusnunggal Blok D no.12, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000475,"Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000476,"3X23+CX2, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000477,"Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000478,"3X24+92G, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9500875 106.9545156,-69500875,1069545156
+PS000479,"2XX3+XR6, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000480,"Jl. Garuda, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9479875 106.9564219,-69479875,1069564219
+PS000481,"3X24+RH3, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000482,"3X24+RJM, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000483,"3W3R+Q5X, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000484,"3W3R+Q5X, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9464125 106.9405156,-69464125,1069405156
+PS000485,"3W3R+C6J, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000486,"3W3R+7CV, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000487,"Perumahan griya gaharu mas blok C8 No 5 Babakan Kec. Cibeureum Kota Sukabumi Jawa Barat 43142, Indonesia",-6.9452722 106.9403669,-69452722,1069403669
+PS000488,"perum, Jl. Limusnunggal No.34, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000489,"3X54+94J, Jl. Sarasa, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000490,"3X42+CJ5, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000491,"Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat, Indonesia",-7.048895700000001 106.803476,"-7,0489E+15",106803476
+PS000492,"Kp. Cilawang, Bojong Jengkol, Kec. Jampang Tengah, Kabupaten Sukabumi, Jawa Barat 43171, Indonesia",-7.059487499999999 106.8052656,"-7,05949E+15",1068052656
+PS000493,"WRR4+642, Kampung Ciburahol, Panumbangan, Kec. Jampang Tengah, Kabupaten Sukabumi, Jawa Barat 43171, Indonesia",-7.0589875 106.8055156,-70589875,1068055156
+PS000494,"WRR4+C62, Panumbangan, Kec. Jampang Tengah, Kabupaten Sukabumi, Jawa Barat 43171, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000495,"Jl. Sarasa No.75, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000496,"Jl. Sarasa No.75, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000497,"3X42+CJ5, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-7.0589875 106.8055156,-70589875,1068055156
+PS000498,"WRR4+C62, Panumbangan, Kec. Jampang Tengah, Kabupaten Sukabumi, Jawa Barat 43171, Indonesia",-7.048895700000001 106.803476,"-7,0489E+15",106803476
+PS000500,"Kp. Cilawang-Bojonglopang, Bojong Jengkol, Kec. Jampang Tengah, Kabupaten Sukabumi, Jawa Barat 43171, Indonesia",-6.960271499999999 106.9436429,"-6,96027E+15",1069436429
+PS000501,"Jl. Kav. Garuda II No.3, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9598854 106.9453165,-69598854,1069453165
+PS000502,"Jl. Kav. Garuda II No.1, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9598854 106.9453165,-69598854,1069453165
+PS000505,"Jl. Kav. Garuda II No.1, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9483352 106.9504037,-69483352,1069504037
+PS000506,"Jl. Sarasa No.1, RT.03/08/RW.08, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43163, Indonesia",-6.9626701 106.9431617,-69626701,1069431617
+PS000507,"Jl. Safir 4 No.95, RW.11, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9450125 106.9517969,-69450125,1069517969
+PS000508,"3X32+XPV, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9626382 106.9400511,-69626382,1069400511
+PS000510,"Jl. Garuda 1, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.949362499999999 106.9516719,"-6,94936E+15",1069516719
+PS000511,"3X22+7M3, Jl. Sindang Resmi, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000513,"2WQV+Q58, Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000516,"2WQV+P64, Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9565145 106.9471357,-69565145,1069471357
+PS000517,"Cluster grand palay No.C10, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000519,"Caringin Rt02 Rw10 , Baros,Baros Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9458021 106.9526708,-69458021,1069526708
+PS000524,"Jl. Sarasa No.9, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000525,"3X45+3JQ, Jl Cikaret kp Ceger, RT.024/RW.008, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9399437 106.9599936,-69399437,1069599936
+PS000526,"3X45+3JQ, Jl. Cikaret Kp. Ceger RT.024/RW.008 Cikaret Kec. Kebonpedes Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000527,"2WRW+CHF, Jl. Garuda, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000528,"2WXW+HR7, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9599106 106.9482589,-69599106,1069482589
+PS000529,"Jl. Akik 8 No.101, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9600161 106.9482552,-69600161,1069482552
+PS000530,"2WQX+X8F, Jl. Akik 7, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000531,"3X23+6H8, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9600161 106.9482552,-69600161,1069482552
+PS000532,"2WQX+X8F, Jl. Akik 7, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.951262499999999 106.9447969,"-6,95126E+15",1069447969
+PS000533,"2WXV+FWV, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000534,"Jl. Caringin - Pasir Datar No.Rt.02/10, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000535,"Rancakadu, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9378188 106.9548745,-69378188,1069548745
+PS000536,"Jl. Pembangunan No.9, Babakan, Kab. Sukabumi, Kota Sukabumi, Jawa Barat 35131, Indonesia",-6.938762499999999 106.9602031,"-6,93876E+15",1069602031
+PS000537,"3X66+F3W, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000538,"3X42+XRG, Jl. Sarasa, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000539,"Jl. Sarasa No.75, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9362379 106.9525195,-69362379,1069525195
+PS000540,"Jl. Ciandam No.16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000541,"Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000542,"3X24+QWF, Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000543,"3W3R+8VG, Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9494688 106.95433,-69494688,10695433
+PS000544,"Jl. Rancakadu No.2, Cibeureum Hilir, Sukabumi, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000545,"Perumahan Griya Gaharu Mas Blok A12 no 2 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9446625 106.9532656,-69446625,1069532656
+PS000546,"3X43+48J, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000547,"Kp. Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000548,"Jl. Sarasa, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000549,"3X24+92G, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9582875 106.9476406,-69582875,1069476406
+PS000550,"2WRX+M3J, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9647875 106.9395156,-69647875,1069395156
+PS000551,"2WPQ+3RJ, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000552,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.879179 106.9474842,-6879179,1069474842
+PS000553,"kp.ciseupan, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9600161 106.9482552,-69600161,1069482552
+PS000554,"2WQX+X8F, Jl. Akik 7, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9601875 106.9472969,-69601875,1069472969
+PS000555,"2WQW+WWF, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9602357 106.9478766,-69602357,1069478766
+PS000556,"2WQX+R4V, Jl. Akik V, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9602357 106.9478766,-69602357,1069478766
+PS000557,"2WQX+R4V, Jl. Akik V, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9600161 106.9482552,-69600161,1069482552
+PS000558,"2WQX+X8F, Jl. Akik 7, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9515375 106.9453281,-69515375,1069453281
+PS000559,"2WXW+94P, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9632556 106.9444188,-69632556,1069444188
+PS000560,"Jl.Kecubung Perum Baros Kencana, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000561,"2WRW+CHF, Jl. Garuda, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000562,"Jl. Garuda Caringin, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.959955799999999 106.9479197,"-6,95996E+15",1069479197
+PS000563,"Jl. Akik V No.68, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000564,"Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.951262499999999 106.9447969,"-6,95126E+15",1069447969
+PS000565,"cibungur, 2WXV+FWV, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.963328499999999 106.9386765,"-6,96333E+15",1069386765
+PS000566,"Kav, Jl. Garuda Jl. Genteng No.13, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000567,"Jl. Rancakadu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9619125 106.9442344,-69619125,1069442344
+PS000568,"2WQV+6MQ, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.920625299999999 106.9433547,"-6,92063E+15",1069433547
+PS000570,"Perum Griya Gaharu Jl. Cendana 6 Blok A12, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9636625 106.9421719,-69636625,1069421719
+PS000571,"2WPR+GVM, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000572,"Jl. Sarasa Loasari, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000573,"Jl. Carongin, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000574,"Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000575,"Gg. Brunei, Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9582875 106.9476406,-69582875,1069476406
+PS000576,"2WRX+M3J, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9611428 106.9465821,-69611428,1069465821
+PS000577,"Jl. Nilam Raya, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000578,"Jl akik 09 perum Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000579,"Jl. Garuda Caringin, RT.01/RW.010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.951262499999999 106.9447969,"-6,95126E+15",1069447969
+PS000580,"2WXV+FWV, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9487125 106.9528281,-69487125,1069528281
+PS000581,"3X23+G48, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000582,"Kp. Cibungur , Rt 002 Rw 003 , Sindangpalay , Cibereum , Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9512125 106.9461406,-69512125,1069461406
+PS000583,"2WXW+GF6, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.945912499999999 106.9524844,"-6,94591E+15",1069524844
+PS000584,"3X32+JXQ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000585,Perumahan Griya Gaharu Mas Blok C10 No 2 Kel. Babakan Kec . Cibereum Kota Sukabumi,-6.941456800000001 106.9524212,"-6,94146E+15",1069524212
+PS000586,"Jl. Sarasa No.45, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9556232 107.0391749,-69556232,1070391749
+PS000587,"Kp. bobojong Rt 001 Rw 006 Kel. Jambenenggang , Kec . Kebonpedes Kab. Sukabumi",-6.9382845 106.8408324,-69382845,1068408324
+PS000588,"Jl. Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9613562 106.9440364,-69613562,1069440364
+PS000589,"Jl. Kalimaya Raya No.16, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000590,"Jl. Garuda Legok Caringin, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.962115499999999 106.9430314,"-6,96212E+15",1069430314
+PS000591,"Jl. Safir 6 No.157, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.949762499999999 106.9467656,"-6,94976E+15",1069467656
+PS000592,"3W2W+3PR, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.949362499999999 106.9516719,"-6,94936E+15",1069516719
+PS000593,"3X22+7M3, Jl. Sindang Resmi, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000594,"2WXW+GV6, Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9414082 106.9412516,-69414082,1069412516
+PS000595,"Jl. Limusnunggal No.103, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9414082 106.9412516,-69414082,1069412516
+PS000596,"Jl. Limusnunggal No.103, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.958727199999999 106.9459713,"-6,95873E+15",1069459713
+PS000597,"Jl. Garuda No.104, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.961543100000001 106.9454294,"-6,96154E+15",1069454294
+PS000598,"Jl. Nilam Raya No.96, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9605808 106.9476431,-69605808,1069476431
+PS000599,"Jl. Akik 3 No.32, Perum Baros Kencana, Kel. Baros Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9605365 106.9489783,-69605365,1069489783
+PS000600,"Jl. Blk. J-K No.12a, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000601,"Loasari RT.02 RW.01, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9446625 106.9532656,-69446625,1069532656
+PS000602,"3X43+48J, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000603,"Jl. Sarasa No.75, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.958562499999999 106.9468906,"-6,95856E+15",1069468906
+PS000604,"2WRW+HQC, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9611428 106.9465821,-69611428,1069465821
+PS000605,"Jl. Legok Caringin, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.951262499999999 106.9447969,"-6,95126E+15",1069447969
+PS000606,"2WXV+FWV, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000607,"Jl. Sarasa komplek pertanian, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000608,"Loasari rt.02 rw.01, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000609,"2WRV+WVF, Kp. Caringin RT.01/RW.10 Baros Kec. Baros Kota Sukabumi, Jawa Barat, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000610,"2WXW+H5W, Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000611,"Jl. Garuda Caringin, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000612,"3X55+MWH, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.950748099999999 106.9470688,"-6,95075E+15",1069470688
+PS000613,"Jl. Sarasa No.12, RT.1/RW.2, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9507625 106.9461406,-69507625,1069461406
+PS000614,"2WXW+MFR, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000615,"Loasari, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000616,"Rancakadu RT/RW. 005/004, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000617,"Rancakadu RT/RW. 004/004, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9491422 106.9544621,-69491422,1069544621
+PS000618,"jln. Rancakadu, RT05 /RW 04 Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9636625 106.9421719,-69636625,1069421719
+PS000619,"2WPR+GVM, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000620,"Perum Baros Kencana Jl. Zamrud 2, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.963912499999999 106.9397656,"-6,96391E+15",1069397656
+PS000621,"2WPQ+CWJ, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000622,"Perum Griya Gaharu Mas Jl. Cendana 6 Blok A12, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000623,"2WRX+5FC, Jl. Akik Raya No.09, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.879179 106.9474842,-6879179,1069474842
+PS000624,"kp.ciseupan, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.946210499999999 106.9513114,"-6,94621E+15",1069513114
+PS000625,"Jl. Sarasa No.10, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000626,"2WXW+QVW, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9449125 106.9546406,-69449125,1069546406
+PS000627,"3X43+2VJ, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.958537499999999 106.9471719,"-6,95854E+15",1069471719
+PS000628,"2WRW+HVM, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9488375 106.9558906,-69488375,1069558906
+PS000629,"3X24+F96, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.948938699999999 106.93559,"-6,94894E+15",10693559
+PS000630,"Jl. Gn. Karang No.221, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43116, Indonesia",-6.9474648 106.9376567,-69474648,1069376567
+PS000631,"Jl. Gn. Karang, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000632,"Cibungur, Kel. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000633,"cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000634,"Kp. Rancakadu rt01/rw08 , Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000635,"Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000636,"Cibungur rt.03 rw.03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9507433 106.9486712,-69507433,1069486712
+PS000637,"Jl. Garuda, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000638,"Jl. Rw. Belut, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000639,"Jl. Akik 10 No.104, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000640,"Perum baros kencana no 143 rt 001 rw 013, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9497016 106.9514357,-69497016,1069514357
+PS000641,"Rancakadu, isopanel, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000642,"3X52+FJ9, Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9617296 106.9446937,-69617296,1069446937
+PS000643,"Jl. Kalimaya 2, no.127, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.941456800000001 106.9524212,"-6,94146E+15",1069524212
+PS000644,"Jl. Sarasa No.45, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000645,"Kp. Cikaret RT 23 RW 08 Cikaret Kec. Kebonpedes Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000646,"Kp. Cibungur no.04/03 , Sindangpalay, Cibereum , Kota Sukabumi",-6.9452794 106.9447146,-69452794,1069447146
+PS000647,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000648,"Jl. Rancakadu rt.04 rw.04, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000649,"Kp. Baldes Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000650,"Kp. Baldes Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000651,"Jl. Cikaret, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000652,"perum griya gaharumas blok C8 no 4 ,Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000653,"jln. garuda Caringin Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9628779 106.9425267,-69628779,1069425267
+PS000654,"Jl. Safir 3 Perumahan No.107, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9632727 106.9425495,-69632727,1069425495
+PS000655,"Jl. Zamrud 20 no 14 Blok 3 Kec. Baros, Kota Sukabumi Jawa Barat",-6.9362379 106.9525195,-69362379,1069525195
+PS000656,"Jl. Ciandam No.16, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9645294 106.9395495,-69645294,1069395495
+PS000657,"Jl. Garuda rt 02 rw 18, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000658,"Kp. Cikaret Baldes, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.958119399999999 106.9507569,"-6,95812E+15",1069507569
+PS000659,"Cibuntu, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9614148 106.9442369,-69614148,1069442369
+PS000660,"Jl. Kalimaya Raya No.18, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000661,"Kp. Loa Sari rt 01 rw 01 Kel. Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9618451 106.940495,-69618451,106940495
+PS000664,"Jl. Garuda No.20, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000665,"Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9444732 106.9314335,-69444732,1069314335
+PS000666,"Jl. Gedong Panjang rt 02 rw 08  Limusnunggal, Kec. Cibeureum, Kota Sukabumi",-6.9507433 106.9486712,-69507433,1069486712
+PS000667,"Jl. Garuda Kampung Cibungur. Rt. 02/03 Kel, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000668,"Ciseupan rt 02 rw 03 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000669,"Cibungur 003/003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000670,"Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9358071 106.9380224,-69358071,1069380224
+PS000671,"Jl. Limusnunggal 002/003, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000672,"Cibungur rt 03 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000673,"Jl Limusnunggal rt 01 rw 08 Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000674,"Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000675,"Jl. Rancakadu rt 01 re 08 , Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9414019 106.9598094,-69414019,1069598094
+PS000676,"3X55+4W5, Jl. Cikaret, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000677,"Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9458021 106.9526708,-69458021,1069526708
+PS000678,"Jl. Sarasa No.9, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000679,"Cibungur rt 01 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9346375 106.9596406,-69346375,1069596406
+PS000680,"3X85+4VR, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9632672 106.9417635,-69632672,1069417635
+PS000681,"Jl. Zamrud 2 Blok 2 no 46 rt 02 gw 12, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9632666 106.9423967,-69632666,1069423967
+PS000682,"Jl. Zamrud 18 no 268 Perum baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000683,"Kp Cibungur rt 01 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.958487499999999 106.9438594,"-6,95849E+15",1069438594
+PS000684,"2WRV+JG5, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000685,"Cibungur rt 001/003 Kel. Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000686,"Cibungur rt 04 re 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000687,"Kp Cikaret Baldes rt 22 rw 08 Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000688,"Kp Cikaret Baldes rt 22 rw 08 Babakan, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000689,"2WRW+F68, Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000690,"Kp Cikaret baldes, Kel. Cikaret Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000691,"Perum girya gaharu mas blok D2 no 19. Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000692,"Cibungur rt 01 rw 02 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia ",-6.9434624 106.9412177,-69434624,1069412177
+PS000693,"Pesona Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000694,"Cibungur rt 01 rw 02 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000695,"Cibungur rt 01 rw 02 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000696,"Jl. Sarasa Loa Sari, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.920625299999999 106.9433547,"-6,92063E+15",1069433547
+PS000697,"Perum girya gaharu Babakan Cibeureum, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.945199 106.953291,-6945199,106953291
+PS000698,"Perum girya gaharu mas blok B no 11 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9621889 106.941963,-69621889,106941963
+PS000699,"Jl. Safir 6 rt 03 rw 02, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9475305 106.9418005,-69475305,1069418005
+PS000700,"Jl. Limusnunggal Rawabelut rt 03 rw 08 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9519186 106.9314334,-69519186,1069314334
+PS000701,"Perum Pepabri BTN Jayaraksa Blok C. 14 rt 02 rw 06 Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, IndonesiaS",-6.9423389 106.9463199,-69423389,1069463199
+PS000702,"3W3R+7GC, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000703,"Cibungur rt 03 rw 03 kel Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9423447 106.951563,-69423447,106951563
+PS000704,"kosan GSC Jl. Sarasa No.75, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9512297 106.9468885,-69512297,1069468885
+PS000705,"Jl. Limusnunggal, Kp. Cibungur , Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000706,"Cibungur 001/002, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000707,"Cibungur 003/003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9512297 106.9468885,-69512297,1069468885
+PS000708,"Jl. Limusnunggal, Kp. Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9512297 106.9468885,-69512297,1069468885
+PS000709,"Jl. Limusnunggal, Kp. Cibungur, rt.03 rw.03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9418665 106.9553261,-69418665,1069553261
+PS000710,"Depan kampus Ipb Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000711,"3W2R+MJH, Jl. Rw. Belut, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9614306 106.9270066,-69614306,1069270066
+PS000712,"Ciwaringin rt 03 rw 06 Kel Jayamekar, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000713,"Cibungur rt 03 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000714,"Jl. Rancakadu rt 01 rw 08 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.948302300000001 106.9504242,"-6,9483E+15",1069504242
+PS000715,"Jl. Sarasa rt 02 rw 05 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000716,"Kp Cibungur rt 05 re 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000717,"Kp Cibungur rt 01 re 02 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.962940700000001 106.9435779,"-6,96294E+15",1069435779
+PS000718,"Jl. Safir 3 perum baros kencana blok 1 rt 01 rw 11 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000719,"Jl. Sarasa, Kp. Bungbulang RT.02 RW.05, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000720,"Warung bohel, rt 03 rw 03 Cibungur Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9507625 106.9461406,-69507625,1069461406
+PS000721,"2WXW+MFR, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9502125 106.9471719,-69502125,1069471719
+PS000722,"2WXW+WV7, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.963250599999999 106.9417267,"-6,96325E+15",1069417267
+PS000723,"Jl. Zamrud Raya 10 Blok 2 No 156 rt 03 rw 12 Perum Baros kencana, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.920357099999999 106.9668745,"-6,92036E+15",1069668745
+PS000724,"Perum girya gaharu mas blok C2 no 8 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000725,"Perum Baros Kencana Jl. Safir 2 No.141rt 02 rw 11, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000726,"Rancakadu rt 05 rw 04 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000727,"Kp Cibungur rt 02 rw 02 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9624156 106.9435987,-69624156,1069435987
+PS000728,"Jl. Safir Raya No 45 perumahan Baros Kencana rt02  RW 11 blok 1, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000729,"Cibungur rt 03 rw 03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9618807 106.94393,-69618807,10694393
+PS000730,"Jl. Kalimaya 1 No.195, Perum Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000731,"jl sarasa perum girya gaharu mas blok D2 no. 17 rt 06 rw 08  Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000732,"Kp Cibungur rt 02 rw 02 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000733,"Jl. Akik 12 blok IV no 150 rt 03 rw 16 Perum Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.964523 106.9395521,-6964523,1069395521
+PS000734,"Kp Caringin Baros Jl. Garuda rt 03 rw 10 Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.8003129 107.8643107,-68003129,1078643107
+PS000735,"Jl. Garuda Cibungur Rt. 01/03 Kel, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000736,"Cibungur rt 03 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9625445 106.9427175,-69625445,1069427175
+PS000737,"Jl. Safir 5 No.125 rt 01 rw 11 Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9465401 106.9385666,-69465401,1069385666
+PS000738,"Jl. Gunung Karang rt 04 re 10 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000739,"Jl. Rancakadu rt 05 rw 04 , Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000740,"Jl. Garuda Caringin rt 01 rw 10 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9444732 106.9314335,-69444732,1069314335
+PS000741,"Gedong Panjang rt 03 rw 08 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000742,"Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9625406 106.9425942,-69625406,1069425942
+PS000743,"Jl. Safir 5 no 129 B rt 01 rw 11 Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.964312 106.9397039,-6964312,1069397039
+PS000744,"Jl. Garuda No.6 rt 02 rw 01 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9379161 106.9541178,-69379161,1069541178
+PS000745,"Jl Pembangunan rt 02 rw 06 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000746,"Jl. Sarasa Loa Sari rt 04 rw 08 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000747,"Cibungur rt 04 rw 03  Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000748,"Jl garuda Caringin, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.962940700000001 106.9435779,"-6,96294E+15",1069435779
+PS000749,"Jl. Safir Raya rt 04 rw 11, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.963532 106.9439203,-6963532,1069439203
+PS000750,"Jl. Kecubung 3 No.124 rt 01 rw 13, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000751,"Cibungur rt 03 rw 03 kel Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9465401 106.9385666,-69465401,1069385666
+PS000752,"Jl. Gn. Karang rt 03 rw 10, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.947834299999999 106.9414742,"-6,94783E+15",1069414742
+PS000753,"Jl. Rw. Belut, puskesmas Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000754,"Cibungur rt 04 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000755,"Cibungur rt 01 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000756,"Kpn. Ciseupan bengkel steam motor rt 02 re 03 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.8600559 107.5673017,-68600559,1075673017
+PS000757,"kp.ciseupan rt 02 re 03 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9614306 106.9270066,-69614306,1069270066
+PS000758,"Ciwaringin rt 03 rw 06 Jayamekar, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.963250599999999 106.9417267,"-6,96325E+15",1069417267
+PS000759,"Jl. Zamrud 10 No.152 blok 2 perum baros kencana, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000760,"Jl. Akik 10 No.108 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9535806 106.9306639,-69535806,1069306639
+PS000761,"BTN Jayaraksa marga V blok G No. 8 rt 03 rw 06 Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000762,"Kp Cikaret Baldes rt 22 gw 8 Babakan, Kec. Kebonpedes, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9608623 106.9440099,-69608623,1069440099
+PS000763,"Jl. Safir 12 No.74 rt 01 re 14 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.96094 106.9418733,-696094,1069418733
+PS000764,"Perum sentosa residence Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000765,"Perumahan griya gaharu mas blok c3 no 3 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9465401 106.9385666,-69465401,1069385666
+PS000766,"Jl. Gn. Karang rt 04 rw 10, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9482841 106.9504356,-69482841,1069504356
+PS000767,"Jl Sarasa rt 03 rw 08 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9482841 106.9504356,-69482841,1069504356
+PS000768,"Jl. Sarasa rt 03 rw 08 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.959911099999999 106.9452919,"-6,95991E+15",1069452919
+PS000769,"Jl. Kav. Garuda II rt 02 rw 01 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9475305 106.9418005,-69475305,1069418005
+PS000770,"Jl Rawa Belut rt 03 rw 03 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9392311 106.9600653,-69392311,1069600653
+PS000771,"Jl. Cikaret rt 22 rw 08 inginBabakan, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000772,"Cibungur rt 03 rw  03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9632986 106.9432495,-69632986,1069432495
+PS000773,"Jl. Zamrud Raya No.26 Perum baros kencana rt 05 rw 12 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000774,"Jl. Garuda legok caringin RT 01 RW 18 Baros Kec. Baros Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000775,"Cibungur rt 03 rw 03 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000776,"Kp. Cikaret Baldes, Rt 022 Rw 008 Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000777,"Kpn cikaret baldes rt 22 rw 08 cikaret, Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000778,"Perum Griya Gaharus Mas Blok D4  No 9 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000779,"Perumahan griya gaharu mas blok D1 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000780,"3X23+CRG, Jl. Rancakadu, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9605808 106.9476431,-69605808,1069476431
+PS000781,"jl.akik 2 no 29 perum baros kencana rt 01 rw 16 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.962128099999999 106.9432389,"-6,96213E+15",1069432389
+PS000782,"Kav. Garuda Jl merak No 12 rt 04 rw 18, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000783,"Cibungur rt 03 rw 03 olehSindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9526901 106.9327391,-69526901,1069327391
+PS000784,"Jl. Sudajaya Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9423389 106.9463199,-69423389,1069463199
+PS000785,"3W3R+9G2, Jl. Lkr. Sel., Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000786,"cibungur rt 04 rw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9358071 106.9380224,-69358071,1069380224
+PS000787,"Limusnunggal rt 04 re 06 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9034334 106.9142826,-69034334,1069142826
+PS000788,"Perum Griya Gaharu Blok D4 No.22, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000789,"Rancakadu rt 04 gw Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000790,"Jl. Limusnunggal Jalur Lingkar Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000791,"Cibungur rt 01 gw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9605808 106.9476431,-69605808,1069476431
+PS000792,"Jl. Akik 2 no 36 perum baros, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000793,"Jl. Pembangunan Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000794,"Jl. Rancakadu rt 05 gw 04 Sindangpalay olehKec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9619651 106.9436151,-69619651,1069436151
+PS000795,"2WQV+6FV, Jl. Safir Raya, Perum Baros Kencana Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000796,"Jl Limusnunggal rt 03 rw 08 Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000797,"kpn cikaret Valdes rt 023 re 08 Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43194, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000798,"Caringin rt 03 rw 10 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9475305 106.9418005,-69475305,1069418005
+PS000799,"Kp Rawa belut rt 03 gw 03 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9416026 106.9597967,-69416026,1069597967
+PS000800,"Jl. Cikaret Kp. Sukamanah Rt 02 Rw 07 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43194, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000801,"Kp. Loasari Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000802,"Kp Ceger rt 01 rw 01 Sasagaran, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9630151 106.9434605,-69630151,1069434605
+PS000803,"Jl. Safir 24 Blok 1 No 222 Perum Baros Kencana rt 04 gw 11 olehBaros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9619651 106.9436151,-69619651,1069436151
+PS000804,"Jl Safir no 216 Perum Baros Kencana rt 04 rw 11 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9623347 106.9437274,-69623347,1069437274
+PS000806,"Jl. Safir No 210 Perum Baros Kencana rt 04 rw 11 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.958119399999999 106.9507569,"-6,95812E+15",1069507569
+PS000807,"Jl. Cibuntu  Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000808,"Cibungur rt/rw 01/03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9453326 106.9540187,-69453326,1069540187
+PS000809,"Kp.Babakan rt/rw 01/05 Jl sarasa, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000811,"Kp. Caringin legok, Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000812,"Jl. Pembangunan (sebelum play over), Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000813,"Kp Cibungur, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000814,"Kp Caringin legok, Jl. Garuda, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000815,"Jl. Zamrud IV Perum Baros Kencana No.93, RT.1/RW.12 Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000816,"Cibungur rt 01 gw 03 Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9632672 106.9417635,-69632672,1069417635
+PS000817,"Jl. Zamrud Raya 2 No.43, Rt/Rw 002/012, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000818,"kpn cibungur rt 03 gw 03 Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9543582 106.9307012,-69543582,1069307012
+PS000819,"Jl. marga 2 blok M no. 24, perum btn pepabri Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9417697 106.9469358,-69417697,1069469358
+PS000820,"Jl. parahita nugraha rt/rw 01/05 Kp. cibitung, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000821,"Kp. Cibungur rt/rw 01/02 (masuk Gang pp), Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000822,"Jl. Limusnunggal rt/rw 02/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9541929 106.9308355,-69541929,1069308355
+PS000823,"Jl. Marga 3 Perum BTN PEPABRI, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000824,"Jl. Sarasa babakan samping fotocopy sarasa, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000825,"Jl. Limusnunggal rt/rw 02/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.952391200000001 106.9323494,"-6,95239E+15",1069323494
+PS000826,"Perum Pepabri jl Marga VI blok F.1 Rt/rw 03/06 Jl. Sudajaya Hilir, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000827,"Perum baros kencana safir 23 Jl. Safir Raya, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000828,"Jl Limusnunggal Rt/rw 01/08, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000829,"Kp. Caringin Jl. Garuda Rt/rw 03/10, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000830,"Jl. Limusnunggal Rt/rw 03/03 Kp. Rawa belut, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43164, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000831,"Kp. Loa sari, Rt/rw 02/01 Kel. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000832,"Jl. Limusnunggal Rt/rw 02/07 Kel. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000833,"Jl. Limusnunggal Rt/rw 01/01, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000834,"Jl. Limusnunggal Rt/Rw 04/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000835,"Jl. Limusnunggal Rt/rw 05/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000836,"Jl. Limusnunggal Rt/rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000837,"Jl. Garuda Cibungur, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9503053 106.9278182,-69503053,1069278182
+PS000838,"Jl. Sudajaya Hilir, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000839,"Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000840,"Jl. Limusnunggal Rt/rw 03/01, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9439562 106.9516936,-69439562,1069516936
+PS000841,"Jl. Sarasa, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9452722 106.9403669,-69452722,1069403669
+PS000842,"perum, Jl. Limusnunggal No.34 blok 4, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000843,"Perum Baros kencana zamrud 2 no.32, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000845,"Jl. Limusnunggal Rt/rw03/01 No.86, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000846,"Jl. Limusnunggal Rt/rw 03/01, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9320693 106.949548,-69320693,106949548
+PS000847,"Jl. Ciandam Kp. Babakan Rt/rw 01/05, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000848,"Jl.Limusnunggal, Rt/rw 02/07 Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000849,"Jl. Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000850,"Jl. Limusnunggal Rt/rw 03/03, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000851,"Jl. Limusnunggal Rt/rw 02/07, Kel. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000852,"Jl. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9602457 106.9437592,-69602457,1069437592
+PS000853,"Jl. Murai 5 No. 15 Kavling Garuda 2, RT.04/RW.118, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9514004 106.9469651,-69514004,1069469651
+PS000854,"Jl. Garuda cibungur Kec. Cibeureum, Kel. Sindangpalay Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000855,"Jl. Limusnunggal Rt 03/Rw 06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000856,"Jl. Sarasa, Babakan RT/RW 001/005, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000857,"Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000858,"Cibungur Rt/Rw 04/03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.8003129 107.8643107,-68003129,1078643107
+PS000859,"Jl. Garuda Cibungur  Kel, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000860,"Jl. Limusnunggal Rt/Rw 01/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9478692 106.9416652,-69478692,1069416652
+PS000861,"Kp. Rawabelut Rt/Rw 003/003, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9452794 106.9447146,-69452794,1069447146
+PS000862,"Jl. Cibungur Rt/Rw 001/002, Kel. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.951805599999999 106.9308975,"-6,95181E+15",1069308975
+PS000863,"Jl. Sudajaya Rt/Rw 06/02 Gg Septi salon, Kel. Jayarakrasa Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000864,"Jl. Limusnunggal Rt/Rw 02/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000866,"Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.952391200000001 106.9323494,"-6,95239E+15",1069323494
+PS000867,"Jl. Sudajaya No.6, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000868,"Jl. Limusnunggal Rt/Rw 002/007, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000869,"Jl. Limusnunggal Rt/Rw 02/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9526901 106.9327391,-69526901,1069327391
+PS000870,"Jl. Sudajaya Rt/Rw 06/02, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000871,"Jl. Pembangunan Bungbulang Rt/Rw 002/005, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000872,"Jl. Limusnunggal Rt/Rw 01/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000873,"Jl. Limusnunggal Rt/Rw 05/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.962571499999999 106.9473517,"-6,96257E+15",1069473517
+PS000874,"Jl. Pirus 9 No.117 Blok 7 Perum Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000875,"Jl. Limusnunggal, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9478404 106.9559403,-69478404,1069559403
+PS000876,"Rancakadu RT/RW 001/008, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.957718499999999 106.9495338,"-6,95772E+15",1069495338
+PS000877,"Jl. Cibuntu Cimuncang No.23, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000878,"3X23+CRG, Jl. Rancakadu rt 01 rw 08 Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000879,"Jl. Limusnunggal Rt/Rw 05/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000880,"Kp. Cikaret Rt/Rw 23/08, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000881,"Jl. Limusnunggal Rt/Rw 04/06, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000882,"Jl. Rancakadu Rt/Rw 004/004, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9605405 106.9473902,-69605405,1069473902
+PS000883,"Jl. Akik IV Blok 6 Perumahan Baros Kencana, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000884,"Cibungur Rt/Rw 04/03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000885,"Jl. Rancakadu Rt/Rw 03/04, Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000886,"Jl. Rancakadu Rt/Rw 03/04, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000887,"Jl. Limusnunggal Rt/Rw 02/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000888,"Kp. Caringin Rt/Rw 001/010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9494149 106.9445665,-69494149,1069445665
+PS000889,"Jl. Limusnunggal, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9526901 106.9327391,-69526901,1069327391
+PS000890,"Jl. Sudajaya Kavling Rt/Rw 06/02, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000891,"Jl. Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000892,"Jl. Limusnunggal Rt/Rw 01/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000893,"Jl. Limusnunggal Rt/Rw 03/05, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000894,"Jl. Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000895,"Jl. Sarasa Loasari Rt/Rw 01/01, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000896,"Jl. Limusnunggal Rt/Rw 02/06, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9632672 106.9417635,-69632672,1069417635
+PS000897,"Jl. Zamrud 2 No.114, Perumahan Baros Kencana, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9630176 106.9435214,-69630176,1069435214
+PS000898,"Jl. Safir 21 No. 198, Perum Baros Kencana, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000899,"Jl. Akik 7 No. 97 Rt/Rw 02/16, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9630152 106.9434605,-69630152,1069434605
+PS000900,"Jl. Safir 20 No.237 Perum Baros Rt/Rw 04/011 , Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000901,"Kp. Rancakadu Rt/Rw 05/04 Kel. Sindangpalay, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000902,"Jl. Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9320693 106.949548,-69320693,106949548
+PS000903,"Jl. Ciandam Babakan Rt/Rw 01/05, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000904,"Jl. Pembangunan Cikaret Rt/Rw 05/06, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000905,"Cibungur Rt/Rw 03/03, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000906,"Jl. Limusnunggal Rt/Rw 02/07, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000907,"Jl. Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000908,"Jl. Limusnunggal, Nanggeleng, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9434624 106.9412177,-69434624,1069412177
+PS000909,"Pesona Limusnunggal Rt/Rw 04/07 Blok. D1 No. 3, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000910,"Kp. Caringin Rt/Rw 003/010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000911,"Kp. Caringin Rt/Rw 01/010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000912,"Kp. Caringin Rt/Rw 003/010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000913,"Caringin Baros Rt/Rw 003/010, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9592512 106.9441292,-69592512,1069441292
+PS000914,"Jl. Garuda Caringin RT. 001/RW. 010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000915,"Cibungur RT. 005/Rw. 003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000916,"Jl. Sarasa Loa Sari RT. 001/RW. 001, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000917,"Jl. Akik 9 No. 153 Perum Baros RT. 003/RT. 016, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540834 106.9307232,-69540834,1069307232
+PS000918,"Perum Pepabri Jl. Marga 3 RT. 002/RT. 007, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540834 106.9307232,-69540834,1069307232
+PS000919,"Perum Pepabri Jl. Marga 3 RT. 002/RW. 007, Jayaraksa, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43166, Indonesia",-6.9645294 106.9395495,-69645294,1069395495
+PS000920,"Kp. Caringin Jl. Garuda RT.002/RW.010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000921,"Kp. Caringin RT. 002/RW. 010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000922,"Kp. Cibungur RT. 003/Rw. 003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000923,"Kp. Cibungur RT. 001/RW. 002, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000924,"Jl. Limusnunggal RT.005/RW.006, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.963186299999999 106.9402072,"-6,96319E+15",1069402072
+PS000925,"Perum Baros Kencana RT. 002/RW. 014, Baros, Sukabumi Regency, West Java 43161, Indonesia",-6.9507433 106.9486712,-69507433,1069486712
+PS000926,"Jl. Garuda, Kel. Limusnunggal, Kec. Cibeureum (Dekat Perum PGRI), Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000927,"Kp. Cibungur RT.005/RW. 003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9379161 106.9541178,-69379161,1069541178
+PS000928,"Jl. Pembangunan RT. 004/RW.006,  Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9033352 106.9142744,-69033352,1069142744
+PS000929,"Perum Griya Gaharu Blok D4 No. 10, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9577025 106.9447153,-69577025,1069447153
+PS000930,"Kp. Caringin RT.003/RW.010, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9526901 106.9327391,-69526901,1069327391
+PS000931,"jl. Sudajaya Kavling Ciwaringin Damai, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.95416 106.9491418,-695416,1069491418
+PS000932,"Kp. Cibungur RT.004/RW.003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9201162 106.9674914,-69201162,1069674914
+PS000933,"Perum Griya Gaharu Blok C3, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9452794 106.9447146,-69452794,1069447146
+PS000934,"Kp. Cibungur RT.001/RW.002, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000935,"Jl. Limusnunggal RT. 005/RW.006, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000936,"Jl. Limusnunggal RT.003/Rw.007, Kel. Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.932954199999999 106.9638997,"-6,93295E+15",1069638997
+PS000937,"Kp. Cikaret Baldes, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000938,"Jl. Akik 12 Blok 6, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000939,"Jl. Akik 9 No. 158 Perum Baros Kencana, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9632672 106.9417635,-69632672,1069417635
+PS000940,"Jl. Zamrud 2 No. 32 Perum Baros RT. 005/RW. 012, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.960584900000001 106.9476689,"-6,96058E+15",1069476689
+PS000941,"Jl. Akik 10 No. 111 Perum Baros Kencana, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000942,"Kp. Ciseupan RT. 002/RW. 003, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9630151 106.9434605,-69630151,1069434605
+PS000943,"Jl. Safir 24 No. 217 Perum Baros Kencana, Baros, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43161, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS000944,"Kp. Cibungur RT. 003/RW. 003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.920816899999999 106.9673423,"-6,92082E+15",1069673423
+PS000945,"Perum Gaharu Mas Blok B1 No. 1, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000946,"Jl. Cendana 9 Perum Griya Gaharu Mas, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000947,"Jl. Sarasa Loasari, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9541929 106.9308355,-69541929,1069308355
+PS000948,"Jl. Marga III Blok M 5 BTN, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.945117 106.952683,-6945117,106952683
+PS000949,"Jl. Sarasa Blok C 2 No. 9 Perum Gaharu Mas , Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9541929 106.9308355,-69541929,1069308355
+PS000950,"Jl. Marga III Blok M 5 BTN, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000951,"Perumahan griya gaharu mas blok C D3 no. 10 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000952,"Jl. Limusnunggal Rt/Rw 01/08 Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.941456800000001 106.9524212,"-6,94146E+15",1069524212
+PS000953,"Jl. Sarasa no. 45 , Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9519186 106.9314334,-69519186,1069314334
+PS000954,"Perum Pepabri Jayaraksa Blok D 18, Jl. Brata 2 , Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000955,"Perum girya gaharu mas blok No.5, Babakan Cibeureum, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9434624 106.9412177,-69434624,1069412177
+PS000956,"Pesona Limusnunggal Rt/Rw 04/07, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000957,"Perum griya gaharu mas blok C8 no.6 Babakan Cibeureum, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000958,"Perumahan Griya Gaharu mas blok D2 no 2 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000959,"Perumahan Griya Gaharu Mas Blok D1 No.8 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.936071699999999 106.9373227,"-6,93607E+15",1069373227
+PS000960,"Gedong Panjang RT. 003/RW. 008, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9635331 106.9438523,-69635331,1069438523
+PS000961,"Jl. Kecubung 3 Perumahan, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000962,"Perumahan griya gaharu mas blok D1 no.1 Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9512297 106.9468885,-69512297,1069468885
+PS000963,"Jl. Limusnunggal Kp. Gedong Panjang, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9614075 106.9439478,-69614075,1069439478
+PS000964,"Jl. Kalimaya Raya Perum Baros Blok 4, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.958119399999999 106.9507569,"-6,95812E+15",1069507569
+PS000965,"Kp. Cibuntu RT. 001/RW. 001, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000966,"Jl. Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9541929 106.9308355,-69541929,1069308355
+PS000967,"Jl. Marga III Perum BTN, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9634973 106.9259308,-69634973,1069259308
+PS000968,"Perum BTN PEPABRI Jayaraksa M 10 RT. 002/RW. 007, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9360407 106.9391976,-69360407,1069391976
+PS000969,"Jl Limusnunggal RT. 003/RW. 007, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9401128 106.9447146,-69401128,1069447146
+PS000970,"Kp. Cibungur RT 001/003, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9542166 106.9299261,-69542166,1069299261
+PS000971,"Jl. Marga 1 RT. 003/RW. 007 Perum Pepabri Sudajaya, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9542166 106.9299261,-69542166,1069299261
+PS000972,"Jl. Marga 1 RT. 003/RW. 007 Perum Pepabri Sudajaya, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9542166 106.9299261,-69542166,1069299261
+PS000973,"Jl. Marga 1 RT. 003/RW. 007 Perum Pepabri Sudajaya, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat 43166, Indonesia",-6.9604172 106.9475623,-69604172,1069475623
+PS000974,"Jl. Akik 4 No. 54 Perum Baros Kencana, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9363531 106.9561571,-69363531,1069561571
+PS000975,"Jl. Pembangunan Rt/Rw 002/006, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000976,"Kp. Rancakadu RT. 005/RW. 004, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS000977,"Sindangresmi RT. 003/RW. 006, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000978,"Jl. Sarasa Loasari, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9630151 106.9434605,-69630151,1069434605
+PS000979,"Jl. Safir 23 No. 225 RT/RW 04/11, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000980,"Jl. Rancakadu RT. 002/RW. 004, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9202067 106.9665174,-69202067,1069665174
+PS000981,"Perum Griya Gaharu Blok D3 No.3, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9519186 106.9314334,-69519186,1069314334
+PS000982,"Perum Pepabri BTN Jayaraksa RT. 003/RW. 006, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS000983,"Kp. Loa sari Rt/Rw 001/001, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS000984,"Jl. Sarasa Rt/Rw 001/008, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000985,"Jl. Limusnunggal Rt/Rw 003/007, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.920625299999999 106.9433547,"-6,92063E+15",1069433547
+PS000986,"Perum Griya Gaharu Blok 4 No. 11, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000987,"Perumahan Griya Gaharu Mas blok .B3 no. 4, Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000988,"Jl Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9491041 106.9545745,-69491041,1069545745
+PS000989,"Jl. Rancakadu Rt/Rw 005/004, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9608704 106.9436769,-69608704,1069436769
+PS000990,"Jl. Safir 12 Perum Baros Kencana Rt/Rw 001/014, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.920625299999999 106.9433547,"-6,92063E+15",1069433547
+PS000991,"Perum Griya Gaharu Jl. Cendana 6 Blok A12 No. 4, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS000992,"Perum Griya gaharu mas Jl. Cendana 4 Blok A 14 No.3 , Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000993,"Jl. Rancakadu RT. 005/RW. 004, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000994,"Kp. Rancakadu RT. 005/RW. 004, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9493925 106.9539538,-69493925,1069539538
+PS000995,"Kp. Rancakadu RT. 005/RW. 004, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000996,"Jl. Limusnunggal Rt/Rw 01/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.8003129 107.8643107,-68003129,1078643107
+PS000997,"Jl. Garuda Cibungur Rt/Rw 005/003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS000998,"Jl Limusnunggal Rt/Rw 02/07, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9614236 106.9445879,-69614236,1069445879
+PS000999,"Jl. Kalimaya Raya No. 93 RT/RW 002/014, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001000,"Jl. Limusnunggal Rt/Rw 004/006, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS001001,"Kp. Loasari Rt/Rw 001/001, Limusnunggal, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43165, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS001002,"Perum griya gaharu mas blok B1 No.6, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS001003,"Kp. Cibungur Rt/Rw 004/003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS001004,"Jl. Sarasa rt.003/008 kelurahan Babakan kecamatan, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9630151 106.9434605,-69630151,1069434605
+PS001005,"Jl. Safir 23 No. 223 Perum Baros, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001006,"Jl. Limusnunggal Rt/Rw 002/006, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS001007,"Jl. Sarasa Bungbulang Rt/Rw 002/005, Babakan, Kec. Cibeureum, Kabupaten Sukabumi, Jawa Barat 43142, Indonesia",-6.943585499999999 106.9512679,"-6,94359E+15",1069512679
+PS001008,"Jl. Sarasa Loasari Rt/Rw 001/001 , Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001009,"Jl. Limusnunggal Rt/Rw 004/006, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001010,"Jl. Limusnunggal Rt/Rw 001/007, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001011,"Jl. Limusnunggal Rt/Rw 005/006, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+PS001012,"Perum Griya gaharu mas blok D6 no. 2, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9358606 106.9550449,-69358606,1069550449
+PS001013,"Sindangresmi Rt/Rw 003/008, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43142, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001014,"Jl. Limusnunggal RT/RW 003/001, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS001015,"Kp. Cibungur Rt/Rw 004/003, Sindangpalay, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43162, Indonesia",-6.9432301 106.9404489,-69432301,1069404489
+PS001016,"Jl. Limusnunggal Rt/Rw 001/007, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9519186 106.9314334,-69519186,1069314334
+PS001017,"Perum Pepabri Jl. Marga 2 Blok N3, Jayaraksa, Kec. Baros, Kota Sukabumi, Jawa Barat, Indonesia",-6.9433969 106.9518757,-69433969,1069518757
+PS001018,"Jl. Sarasa, Babakan, Kec. Cibeureum, Kota Sukabumi, Jawa Barat, Indonesia",-6.9540519 106.9520933,-69540519,1069520933
+PS001019,"Kp. Ceger Rt/Rw 001/001, Sasagaran, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43162, Indonesia",-6.9448972 106.9535445,-69448972,1069535445
+,"Perum Griya Gaharu mas Blok D4 No. 15, Babakan Kec. Cibeureum Kota Sukabumi, Jawa Barat, Indonesia",,,
